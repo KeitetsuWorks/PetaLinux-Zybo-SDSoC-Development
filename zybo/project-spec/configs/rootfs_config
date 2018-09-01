@@ -4126,6 +4126,11 @@ CONFIG_wpa-supplicant-cli=y
 # CONFIG_peekpoke is not set
 
 #
+# modules 
+#
+CONFIG_linux-firmware-git=y
+
+#
 # user packages 
 #
 CONFIG_linux-firmware-zd1211=y

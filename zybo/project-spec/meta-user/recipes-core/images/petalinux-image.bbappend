@@ -3,3 +3,4 @@
 IMAGE_INSTALL_append = " peekpoke"
 IMAGE_INSTALL_append = " gpio-demo"
 IMAGE_INSTALL_append = " linux-firmware-zd1211"
+IMAGE_INSTALL_append = " linux-firmware-git"

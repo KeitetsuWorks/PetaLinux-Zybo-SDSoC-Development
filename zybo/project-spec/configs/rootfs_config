@@ -976,7 +976,7 @@ CONFIG_pciutils=y
 #
 # python 
 #
-# CONFIG_python is not set
+CONFIG_python=y
 # CONFIG_python-dbg is not set
 # CONFIG_python-mailbox is not set
 # CONFIG_python-resource is not set
@@ -2094,7 +2094,7 @@ CONFIG_run-postinsts=y
 # CONFIG_opencv-samples-dbg is not set
 # CONFIG_opencv-dev is not set
 # CONFIG_opencv-apps is not set
-# CONFIG_python-opencv is not set
+CONFIG_python-opencv=y
 # CONFIG_opencv-samples is not set
 # CONFIG_opencv-dbg is not set
 
@@ -2757,7 +2757,7 @@ CONFIG_packagegroup-core-ssh-dropbear=y
 #
 # packagegroup-petalinux-x11 
 #
-# CONFIG_packagegroup-petalinux-x11 is not set
+CONFIG_packagegroup-petalinux-x11=y
 # CONFIG_packagegroup-petalinux-x11-dbg is not set
 # CONFIG_packagegroup-petalinux-x11-dev is not set
 

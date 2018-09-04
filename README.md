@@ -14,6 +14,7 @@ This PetaLinux project targets the Custom SDSoC Environment Platform.
 * [Zybo Zynq-7000 ARM/FPGA SoC Trainer Board](https://reference.digilentinc.com/reference/programmable-logic/zybo/start)
 * [PLANEX GW-US54GXS](https://www.planex.co.jp/product/wireless/gw-us54gxs/)
 * [BUFFALO WLI-UC-GNM](http://buffalo.jp/product/wireless-lan/client/wli-uc-gnm/)
+* [TP-Link TL-WN725N](https://www.tp-link.com/jp/products/details/cat-11_TL-WN725N.html)
 
 
 ### Software

@@ -3328,7 +3328,7 @@ CONFIG_tcf-agent=y
 #
 # v4l-utils 
 #
-# CONFIG_v4l-utils is not set
+CONFIG_v4l-utils=y
 # CONFIG_libv4l is not set
 # CONFIG_ir-keytable is not set
 # CONFIG_v4l-utils-dev is not set

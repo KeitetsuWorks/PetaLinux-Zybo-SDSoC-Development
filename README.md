@@ -37,4 +37,5 @@ This PetaLinux project targets the Custom SDSoC Environment Platform.
 * [yocto /lib/firmware以下へのファイルの追加 - メモ](http://mickey-happygolucky.hatenablog.com/entry/2017/02/07/224239)
 * [無線LANのパスフレーズを暗号化するには？ wpa_passphraseコマンド：ネットワーク管理の基本Tips - ＠IT](http://www.atmarkit.co.jp/ait/articles/1601/23/news008.html)
 * [Solved: How to install netperf (ZCU102)? - Community Forums](https://forums.xilinx.com/t5/Embedded-Linux/How-to-install-netperf-ZCU102/td-p/811703)
+* [Zybo＋PetalinuxでUVCカメラを使う - how to code something](http://d.hatena.ne.jp/seinzumtode/20171120/1511167136)
 
